@@ -1,0 +1,2 @@
+pandas
+pytest -- unitesting is carried out in the test directory
